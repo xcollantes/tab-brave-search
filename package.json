@@ -1,0 +1,19 @@
+{
+  "name": "tab-brave-search",
+  "version": "1.0.0",
+  "description": "Hotkeys for Brave Search.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xcollantes/tab-brave-search.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xcollantes/tab-brave-search/issues"
+  },
+  "homepage": "https://github.com/xcollantes/tab-brave-search#readme"
+}
