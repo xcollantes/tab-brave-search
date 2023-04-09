@@ -22,3 +22,5 @@ if (insertPoint) {
 function getAsinFromUrl(url) {
     return url.match(/\/dp\/([\d\w]+)\?/)[1];
 }
+
+function 
